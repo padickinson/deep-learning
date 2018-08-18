@@ -4,13 +4,16 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
-
+auto_encoder/MNIST_data/
+intro-to-rnns/checkpoints/
 .ipynb_checkpoints/
 
-
+notMNIST.pickle
+notMNIST_test.zip
+notMNIST_train.zip
 *.pyc
 *.p
 *.pkl 
-
+*.zip
 */.floyd*
 
